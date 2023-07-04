@@ -62,10 +62,10 @@ flutter:
   assets:
     - assets/search.png
 
-  # fonts:
-  #   - family: Roboto
-  #     fonts:       
-  #       - asset: fonts/Roboto-Light.ttf       
+  fonts:
+    - family: SourceSansPro
+      fonts:       
+        - asset: assets/fonts/Sans-Regular.ttf       
   #         style: italic
   #   - family: Trajan Pro
   #     fonts:
