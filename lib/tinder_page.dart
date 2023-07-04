@@ -56,7 +56,7 @@ class TinderPage extends StatelessWidget {
                 height: 20,
               ),
               Container(
-                height: 60,
+                height: 50,
                 width: 400,
                 decoration: BoxDecoration(
                   border: Border.all(color: Colors.white),
@@ -95,7 +95,7 @@ class TinderPage extends StatelessWidget {
                 height: 12,
               ),
               Container(
-                height: 60,
+                height: 50,
                 width: 400,
                 decoration: BoxDecoration(
                   border: Border.all(color: Colors.white),
@@ -137,7 +137,7 @@ class TinderPage extends StatelessWidget {
                 height: 10,
               ),
               Container(
-                height: 60,
+                height: 50,
                 width: 400,
                 decoration: BoxDecoration(
                   border: Border.all(color: Colors.white),
