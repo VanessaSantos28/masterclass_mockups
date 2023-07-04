@@ -53,7 +53,7 @@ class TinderPage extends StatelessWidget {
                 ),
               ),
               const SizedBox(
-                height: 10,
+                height: 20,
               ),
               Container(
                 height: 60,
